@@ -1,0 +1,9 @@
+name: MinPIPEdustry
+displayName: MinPIPEdustry
+author: MikuBiku
+description: Texturepack for Mindustry with own art style with pipes and stuff.
+version: 1.0
+minGameVersion: 140.4
+dependencies: [ ]
+hidden: true
+//carrot cake has,is and will be good.//
